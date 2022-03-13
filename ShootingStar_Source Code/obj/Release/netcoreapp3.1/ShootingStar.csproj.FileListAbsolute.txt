@@ -1,0 +1,86 @@
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Audio\BottleBreakEQ.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Audio\lo-fi_v1.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Audio\pixie_dust.ogg
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Audio\pixie_dust.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Audio\pixie_dust_ft._dianne_zeta.ogg
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Audio\pixie_dust_ft._dianne_zeta.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Audio\pop.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Audio\retro_arcade_click.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Audio\sfx_fly.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Background\Background_Score.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Background\Background_Score1.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Background\GameBackground.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Background\Solar_Group_Big.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Catapult\SlingShot_before_with_aim.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Controls\Background.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Controls\Background_Square.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Controls\Earth.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Controls\EXIT.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Controls\extra line.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Controls\first line.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Controls\fourth line.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Controls\GameBackground.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Controls\greenlightsaber.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Controls\Jupiter.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Controls\Jupiter_Big.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Controls\kaboom!.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Controls\lightsaber.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Controls\Mars.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Controls\Mercury.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Controls\Neptune.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Controls\Next Level.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Controls\PLAY.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Controls\RETURN.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Controls\Saturn.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Controls\second line.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Controls\SHOOTING STAR.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Controls\SHOOTING STAR_2_LINES.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Controls\Slingshot_after_shoot.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Controls\Slingshot_before_shoot.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Controls\Solar_Group_Big.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Controls\Solar_Group_Medium.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Controls\Solar_Group_Small.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Controls\Sun.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Controls\third line.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Controls\TUTORIAL.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Controls\Uranus.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Controls\Uranus_Big.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Controls\Venus.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Earth.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Font.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Fonts\Font.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Fonts\GameFont.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Fonts\GameFontA.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Slingshot_before_shoot.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Star\Earth.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Star\Jupiter.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Star\Mars.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Star\Mercury.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Star\Neptune.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Star\Saturn.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Star\Uranus.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\Content\Star\Venus.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\ShootingStar.exe
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\ShootingStar.deps.json
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\ShootingStar.runtimeconfig.json
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\ShootingStar.runtimeconfig.dev.json
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\ShootingStar.dll
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\ShootingStar.pdb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\MonoGame.Framework.dll
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\bin\Release\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\obj\Release\netcoreapp3.1\ShootingStar.csproj.AssemblyReference.cache
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\obj\Release\netcoreapp3.1\ShootingStar.GeneratedMSBuildEditorConfig.editorconfig
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\obj\Release\netcoreapp3.1\ShootingStar.AssemblyInfoInputs.cache
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\obj\Release\netcoreapp3.1\ShootingStar.AssemblyInfo.cs
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\obj\Release\netcoreapp3.1\ShootingStar.csproj.CoreCompileInputs.cache
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\obj\Release\netcoreapp3.1\ShootingStar.csproj.CopyComplete
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\obj\Release\netcoreapp3.1\ShootingStar.dll
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\obj\Release\netcoreapp3.1\ShootingStar.pdb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\MidTerm Project version เอาจริง\ShootingStar\obj\Release\netcoreapp3.1\ShootingStar.genruntimeconfig.cache

@@ -1,0 +1,76 @@
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\ShootingStar.exe
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Audio\BottleBreakEQ.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Audio\lo-fi_v1.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Audio\pixie_dust.ogg
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Audio\pixie_dust.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Audio\pixie_dust_ft._dianne_zeta.ogg
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Audio\pixie_dust_ft._dianne_zeta.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Audio\pop.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Audio\retro_arcade_click.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Audio\sfx_fly.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Background\Background_Score.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Background\Background_Score1.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Background\GameBackground.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Background\Solar_Group_Big.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Catapult\SlingShot_before_with_aim.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Controls\Background.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Controls\Background_Square.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Controls\Earth.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Controls\EXIT.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Controls\extra line.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Controls\first line.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Controls\fourth line.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Controls\GameBackground.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Controls\greenlightsaber.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Controls\Jupiter.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Controls\Jupiter_Big.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Controls\kaboom!.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Controls\lightsaber.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Controls\Mars.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Controls\Mercury.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Controls\Neptune.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Controls\Next Level.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Controls\PLAY.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Controls\RETURN.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Controls\Saturn.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Controls\second line.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Controls\SHOOTING STAR.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Controls\SHOOTING STAR_2_LINES.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Controls\Slingshot_after_shoot.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Controls\Slingshot_before_shoot.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Controls\Solar_Group_Big.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Controls\Solar_Group_Medium.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Controls\Solar_Group_Small.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Controls\Sun.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Controls\third line.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Controls\TUTORIAL.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Controls\Uranus.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Controls\Uranus_Big.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Controls\Venus.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Earth.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Font.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Fonts\Font.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Fonts\GameFont.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Fonts\GameFontA.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Slingshot_before_shoot.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Star\Earth.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Star\Jupiter.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Star\Mars.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Star\Mercury.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Star\Neptune.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Star\Saturn.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Star\Uranus.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\Content/Star\Venus.xnb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\ShootingStar.dll
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\ShootingStar.deps.json
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\ShootingStar.runtimeconfig.json
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\ShootingStar.pdb
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\MonoGame.Framework.dll
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\runtimes\linux-x64\native\libopenal.so.1
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\runtimes\osx\native\libSDL2-2.0.0.dylib
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\runtimes\osx\native\libopenal.1.dylib
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\runtimes\win-x64\native\SDL2.dll
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\runtimes\win-x64\native\soft_oal.dll
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\runtimes\win-x86\native\SDL2.dll
+D:\KMITL\Year 2\Season 2\Computer Game Progamming\Final\runtimes\win-x86\native\soft_oal.dll

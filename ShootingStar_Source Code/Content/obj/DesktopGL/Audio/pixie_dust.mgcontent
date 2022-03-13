@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Audio/pixie_dust.mp3</SourceFile>
+  <SourceTime>2022-03-08T01:35:34+07:00</SourceTime>
+  <DestFile>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/bin/DesktopGL/Audio/pixie_dust.xnb</DestFile>
+  <DestTime>2022-03-11T23:37:52.3448688+07:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2020-08-10T23:17:54+07:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2020-08-10T23:17:54+07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/bin/DesktopGL/Audio/pixie_dust.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

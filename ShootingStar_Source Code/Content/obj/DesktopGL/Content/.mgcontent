@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Audio/BottleBreakEQ.wav</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Audio/lo-fi_v1.wav</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Audio/pixie_dust.mp3</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Audio/pixie_dust_ft._dianne_zeta.mp3</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Audio/pop.wav</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Audio/retro_arcade_click.wav</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Audio/sfx_fly.wav</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Background/Background_Score.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Background/Background_Score1.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Background/GameBackground.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Background/Solar_Group_Big.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Catapult/SlingShot_before_with_aim.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Controls/Background.jpg</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Controls/Background_Square.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Controls/Earth.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Controls/EXIT.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Controls/extra line.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Controls/first line.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Controls/fourth line.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Controls/GameBackground.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Controls/greenlightsaber.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Controls/Jupiter.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Controls/Jupiter_Big.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Controls/kaboom!.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Controls/lightsaber.gif</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Controls/Mars.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Controls/Mercury.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Controls/Neptune.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Controls/Next Level.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Controls/PLAY.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Controls/RETURN.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Controls/Saturn.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Controls/second line.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Controls/SHOOTING STAR.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Controls/SHOOTING STAR_2_LINES.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Controls/Slingshot_after_shoot.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Controls/Slingshot_before_shoot.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Controls/Solar_Group_Big.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Controls/Solar_Group_Medium.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Controls/Solar_Group_Small.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Controls/Sun.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Controls/third line.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Controls/TUTORIAL.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Controls/Uranus.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Controls/Uranus_Big.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Controls/Venus.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Earth.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Font.spritefont</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Fonts/Font.spritefont</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Fonts/GameFont.spritefont</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Fonts/GameFontA.spritefont</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/ShooterStar_ICON.ico</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Slingshot_before_shoot.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Star/Earth.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Star/Jupiter.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Star/Mars.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Star/Mercury.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Star/Neptune.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Star/Saturn.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Star/Uranus.png</File>
+    <File>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Star/Venus.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

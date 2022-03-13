@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/Audio/sfx_fly.wav</SourceFile>
+  <SourceTime>2022-03-09T19:08:47.0914548+07:00</SourceTime>
+  <DestFile>D:/KMITL/Year 2/Season 2/Computer Game Progamming/Build/Shooting Star/ShootingStar_Source Code/Content/bin/DesktopGL/Audio/sfx_fly.xnb</DestFile>
+  <DestTime>2022-03-11T23:37:54.5689732+07:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2020-08-10T23:17:54+07:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2020-08-10T23:17:54+07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
